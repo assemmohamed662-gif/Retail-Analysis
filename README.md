@@ -4,7 +4,7 @@
 This Power BI dashboard provides a strategic analysis of a $7.08M retail operation. The goal was to transform raw sales, product, and return data into actionable business insights regarding profitability and operational efficiency.
 
 ## 📷 Dashboard Preview
-![Executive Summary](Dash 1.png)
+![Executive Summary](Dash1.png)
 
 ## 🔍 Key Findings & Insights
 * **High-Margin Performance:** The business maintains a robust **54% profit margin**, driven largely by the **Hoodies & Sweatshirts** category ($1.96M revenue).
