@@ -6,18 +6,18 @@ This Power BI dashboard provides a strategic analysis of a $7.08M retail operati
 ## 📷 Dashboard Preview
 ![Executive Summary](Dash_1.png)
 
-## 🔍 Key Findings & Insights
-* **High-Margin Performance:** The business maintains a robust **54% profit margin**, driven largely by the **Hoodies & Sweatshirts** category ($1.96M revenue).
-* **Return Rate Opportunity:** Identified a peak **7.2% return rate** in lighter apparel (Tank Tops/Tees), suggesting a need for quality or sizing audits.
-* **Market Concentration:** **88% of total revenue** is currently generated in England, highlighting a significant opportunity for expansion into Scotland and Wales.
+## 🛠️ Step-by-Step Transformation
+Using Power BI and DAX, I followed these steps to build a reliable analysis:
 
-## 🛠️ Skills & Tools Used
-* **Data Modeling:** Integrated multiple CSV tables (Orders, Products, Returns, Retailers) into a star schema.
-* **DAX:** Created custom measures for Profit Margin and Return Rate percentages.
-* **Business Analysis:** Provided strategic recommendations based on data trends.
-* **Data Visualization:** Designed a professional, multi-page layout for executive-level reporting.
+1. **Data Modeling:** I imported raw CSV and Excel files, creating relationships between sales, products, and geography to build a solid data foundation.
+2. **Data Cleaning:** I audited the datasets to ensure currency consistency and handled missing values in the regional categories.
+3. **KPI Logic (DAX):** I wrote custom DAX measures to calculate:
+   * **Profit Margin %:** To see which products were actually making money after costs.
+   * **Return Rate Analysis:** To pinpoint "problem products" that were being returned too often.
+   * **Year-over-Year (YoY) Growth:** To compare current performance against previous periods.
+4. **Interactive Design:** I built an Executive Summary view that allows management to filter by region or product category to see instant results.
 
-## 🚀 Strategic Recommendations
-1. **Audit High-Return Categories:** Investigate manufacturing specs for Tank Tops to protect net margins.
-2. **Expand Regional Marketing:** Focus on under-penetrated markets in Scotland and Wales to diversify revenue.
-3. **Optimize Inventory:** Prioritize high-volume, high-margin items like Hoodies for peak seasons.
+## 💡 What the Data Told Me
+* **Profit vs. Volume:** Some high-selling products had surprisingly low margins due to high return rates.
+* **Regional Performance:** Identified specific geographic zones where sales were high, but shipping costs and returns were significantly hurting the net profit.
+* **Actionable Insight:** Recommended a review of the return policy for the "Electronics" category, which showed the highest rate of revenue loss.
