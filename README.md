@@ -4,7 +4,7 @@
 This Power BI dashboard provides a strategic analysis of a $7.08M retail operation. The goal was to transform raw sales, product, and return data into actionable business insights regarding profitability and operational efficiency.
 
 ## 📷 Dashboard Preview
-![Executive Summary](Dash_1.png)
+![Executive Summary](SalesOverview.png)
 
 ## 🛠️ Step-by-Step Transformation
 Using Power BI and DAX, I followed these steps to build a reliable analysis:
