@@ -17,10 +17,10 @@ This Power BI dashboard provides a strategic analysis of a £7M retail operation
 ![Sales Overview](02-Sales_Overview.png)
 
 ### Financial Trends
-![Financial Trends](03-Financial-Trends.png)
+![Financial Trends](03-Financial_Trends.png)
 
 ### Color & Gender Insights
-![Color & Gender Insights](04-Color-Gender-Insights.png)
+![Color & Gender Insights](04-Color_Gender_Insights.png)
 
 ### Executive Summary
 ![Executive Summary](05-Summary.png)
